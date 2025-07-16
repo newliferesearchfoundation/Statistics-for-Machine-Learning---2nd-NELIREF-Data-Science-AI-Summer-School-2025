@@ -6,4 +6,4 @@ This repository is part of the 2nd NELIREF Data Science & AI Summer School 2025,
 
 Instructors: Alexander Takele Mengesha and Andrew Balincura
 
-Teaching Assistant: Emmanuel Ocholi Benjamin
+Teaching Assistant (TA): Emmanuel Ocholi Benjamin
